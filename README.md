@@ -8,6 +8,7 @@
 
 📋 Overview
 The **Smart ATS (Applicant Tracking System) Optimizer** is an intelligent career tool designed to help job seekers crack the automated resume screening process.
+The app link is https://smartatsanalyzer.streamlit.app/
 
 Built using **Google's Gemini Pro LLM** and **LangChain**, this application acts as a personalized Technical Recruiter. It evaluates your resume against any Job Description (JD) to provide a precise match percentage, identifies missing technical keywords, and generates a tailored profile summary to boost your interview chances.
 
